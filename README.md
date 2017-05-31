@@ -5,3 +5,7 @@ An important question to ask ourself!
 ## Rationale
 
 A simple analysis to discover my favourite fruit color.
+
+## Data
+
+[fruits.csv](data/fruits.csv)
